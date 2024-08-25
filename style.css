@@ -1,0 +1,44 @@
+
+
+h1{
+font-size: 32px;
+}
+
+.text-one{
+font-size: 24px;
+font-style: italic;
+}
+p{
+font-style: italic;
+}
+
+.text-four{
+font-weight: 700;
+}
+.text-two{
+text-transform: capitalize;
+}
+.text-three{
+text-transform: uppercase;
+text-align: right;
+}
+.block{
+    border: 2px solid rgb(0, 255, 64);
+    padding-left: 30px;
+    padding-top: 10px solid red;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    font-weight: 900 solid red ;
+    background-color: blue;
+    color: rgb(214, 43, 157);''
+}
+    .fifti{
+        border: 2px solid rgb(0, 255, 64);
+        padding-left: 30px;
+        padding-top: 10px solid red;
+        padding-right: 50px;
+        padding-bottom: 50px;
+        font-weight: 900 solid red ;
+        background-color: rgb(187, 123, 123);
+        color: rgb(13, 248, 209);''
+        
